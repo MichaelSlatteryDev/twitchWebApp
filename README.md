@@ -1,0 +1,1 @@
+Simple app that works with the twitch api. Used to learn more about React.
